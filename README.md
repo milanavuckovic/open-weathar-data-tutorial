@@ -2,7 +2,7 @@
 
 <img src="images/one_logo.png" width=700/>
 
-This repository hosts the Jupyter notebooks developed for the HiDALGO Open Weather and Climate Data tutoarial December 2020
+This repository hosts the Jupyter notebooks developed for the HiDALGO Open Weather and Climate Data tutorial December 2020
 
 Mybinder link for the tutorial:
 
